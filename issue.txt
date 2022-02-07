@@ -2,3 +2,4 @@ hello world
 issue close #1
 issue close #2(1)
 issue close #2.1
+issue close #2
